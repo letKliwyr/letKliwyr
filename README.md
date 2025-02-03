@@ -26,7 +26,7 @@
 <!-- Modern Tech Stack -->
 <div style="background: #0D1117; padding: 20px; border-radius: 10px; margin: 20px 0;">
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,python,docker,kubernetes,aws&theme=dark&perline=5" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,nextjs,azure,tailwind,mysql,mongodb&theme=dark&perline=5" />
   </p>
 </div>
 
