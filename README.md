@@ -14,7 +14,6 @@
 <!-- About Me Title with Neon Effect -->
 <h2>
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Mochiy+Pop+One&size=30&pause=1000&color=BD93F9&center=true&vCenter=true&repeat=false&width=435&lines=💜+aboutme+💜" />
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h2>
 
