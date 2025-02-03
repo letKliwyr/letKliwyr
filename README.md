@@ -17,17 +17,16 @@
   </h3>
   <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,react,vue,docker&theme=dark" />
 
-  <!-- GitHub Stats -->
   <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=letKilwyr&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letKilwyr&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=letKliwyr&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letKliwyr&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
   </div>
 
   <!-- Activity Graph -->
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=letKilwyr&theme=dracula&bg_color=0D1117&color=BD93F9&line=BD93F9&point=FF9494&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=letKliwyr&theme=dracula&bg_color=0D1117&color=BD93F9&line=BD93F9&point=FF9494&hide_border=true" />
 
   <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=letKilwyr&color=BD93F9&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=letKliwyr&color=BD93F9&style=for-the-badge" />
 
   <!-- Social Media -->
   <h3>
@@ -40,5 +39,5 @@
 
   <!-- Footer -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=BD93F9&center=true&vCenter=true&width=435&lines=Made+with+💜+by+letKilwyr" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=BD93F9&center=true&vCenter=true&width=435&lines=Made+with+💜+by+letKliwyr" />
 </div>
