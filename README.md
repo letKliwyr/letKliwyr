@@ -2,6 +2,6 @@
 <img src="image/text.png" />
 
 <div>
-<img src="image/0101.png" />
+<img src="image/image.png" />
 <br/>
 </div>
