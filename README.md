@@ -48,9 +48,6 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
-<!-- Spotify Now Playing -->
-[![Spotify](https://novatorem-navy-ten.vercel.app/api/spotify)](https://open.spotify.com/user/oazuw5p28hh44ar0vrapwr17n)
-
 <!-- GitHub Stats with Custom Theme -->
 <details>
   <summary>✨ GitHub Magic ✨</summary>
