@@ -46,26 +46,26 @@
 <details>
   <summary>✨ GitHub Magic ✨</summary>
   <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=letKilwyr&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=BD93F9&icon_color=BD93F9"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letKilwyr&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=BD93F9"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=letKliwyr&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=BD93F9&icon_color=BD93F9"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letKliwyr&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=BD93F9"/>
   </div>
 </details>
 
 <!-- Streak Stats with Fire Animation -->
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=letKilwyr&theme=midnight-purple&hide_border=true&background=0D1117&stroke=BD93F9&ring=BD93F9&fire=FF9494&currStreakNum=BD93F9&sideNums=BD93F9&currStreakLabel=BD93F9&sideLabels=BD93F9&dates=BD93F9" />
+    <img src="https://streak-stats.demolab.com?user=letKliwyr&theme=midnight-purple&hide_border=true&background=0D1117&stroke=BD93F9&ring=BD93F9&fire=FF9494&currStreakNum=BD93F9&sideNums=BD93F9&currStreakLabel=BD93F9&sideLabels=BD93F9&dates=BD93F9" />
   </a>
 </p>
 
 <!-- Animated Activity Graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=letKilwyr&theme=dracula&bg_color=0D1117&color=BD93F9&line=BD93F9&point=FF9494&hide_border=true" />
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=letKliwyr&theme=dracula&bg_color=0D1117&color=BD93F9&line=BD93F9&point=FF9494&hide_border=true" />
 </a>
 
 <!-- Profile Trophy -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=letKilwyr&theme=dracula&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=letKliwyr&theme=dracula&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 <!-- Social Links with Hover Animation -->
@@ -86,7 +86,7 @@
 
 <!-- Profile Views Counter with Custom Style -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=letKilwyr&label=Visitors&color=BD93F9&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=letKliwyr&label=Visitors&color=BD93F9&style=for-the-badge" />
 </p>
 
 <!-- Footer -->
