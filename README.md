@@ -49,7 +49,7 @@
 </p>
 
 <!-- Spotify Now Playing -->
-[![Spotify](https://novatorem-navy-ten.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USER)
+[![Spotify](https://novatorem-navy-ten.vercel.app/api/spotify)](https://open.spotify.com/user/oazuw5p28hh44ar0vrapwr17n)
 
 <!-- GitHub Stats with Custom Theme -->
 <details>
