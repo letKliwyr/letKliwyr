@@ -1,66 +1,74 @@
-<p align="center">
-  
-  ╔══════════════════════════════════════════════════════════════════════════════════════╗
-  <img width="1200" src="image/image.png" alt="banner">
-  ╚══════════════════════════════════════════════════════════════════════════════════════╝
-</p>
-
 <div align="center">
+    <h1>Heyya ! I identify myself as Kliwyr <a href="https://emoji.gg/emoji/40372-hand"><img src="https://cdn3.emoji.gg/emojis/40372-hand.gif" width="50px" height="50px" alt="_Hand"></a> </h1>
+</div>
+
+  <img width="1200" src="image/image.png" alt="banner">
+</div>
+
+
+  <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=800&height=120&lines=FULL+STACK+DEVELOPER+%7C+TECH+ENTHUSIAST;SPECIALIZED+IN+WEB+DEVELOPMENT;TURNING+IDEAS+INTO+DIGITAL+REALITY" />
 </div>
 
-<div align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=letKliwyr&cc=0D1117&tc=FF79C6&ic=BD93F9&bc=0D1117" />
-  <div>
-    <img src="https://img.shields.io/badge/SYSTEM-ONLINE-50FA7B?style=for-the-badge&labelColor=0D1117" />
-  </div>
-</div>
+---
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-  LANGUAGE & TOOLS
-</h2>
+## <a href="https://emoji.gg/emoji/7188-other-icon"><img src="https://cdn3.emoji.gg/emojis/7188-other-icon.png" width="20px" height="20px" alt="other_icon"></a> ᴀʙᴏᴜᴛ ᴍᴇ
+```
+Hello, 
 
-<div align="center">
-  <p>⚡ FAVORITE LANGUAGE ⚡</p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,vue&theme=dark" />
-  
-  <p>🔮 TOOLS USED 🔮</p>
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" />
-</div>
+I am a student from East Kalimantan, Indonesia. 16 yo
+I started learning programming since 2020 during the pandemic.
+```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&reversal=true" width="100%"/>
+---
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=letKliwyr&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0D1117&hide_border=true&title_color=FF79C6&icon_color=BD93F9&text_color=fff"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=letKliwyr&theme=radical&background=0D1117&hide_border=true"/>
-</div>
+## <a href="https://emoji.gg/emoji/5448-staff-white"><img src="https://cdn3.emoji.gg/emojis/5448-staff-white.png" width="20px" height="20px" alt="staff_white"></a> ᴛᴇᴄʜ & ᴛᴏᴏʟ
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=letKliwyr&custom_title=Kliwyr's%20Contribution%20Activity&bg_color=0D1117&color=BD93F9&line=FF79C6&point=6272A4&area_color=BD93F9&area=true&hide_border=true" />
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" width="30">
-  MY MEDIA
-</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,python,tailwind,html,css" alt="Tech Stack Icons"/>
+</p>
 
-<div align="center">
-  <a href="https://linkedin.com/in/yourusername">
-    <img src="https://img.shields.io/badge/LinkedIn-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
-  </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/X-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117"/>
-  </a>
-  <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Mail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/>
-  </a>
-</div>
+---
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,webstorm,git,postman,nodejs " alt="Tools Icons"/>
+</p>
 
+---
+
+## <img src="https://skillicons.dev/icons?i=github" width="20px" height="20px" alt="stats"></a> ɢɪᴛʜᴜʙ sᴛᴀᴛs
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=letKliwyr&show_icons=true&theme=radical&border_radius=20" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=letKliwyr&theme=radical&border_radius=20" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=letKliwyr&theme=radical&border_radius=20" width="800"/>
+</p>
+
+---
+
+## <img src="https://skillicons.dev/icons?i=discord" width="20px" height="20px" alt="stats"></a> ᴅɪsᴄᴏʀᴅ ᴀᴄᴛɪᴠɪᴛɪᴇs
+<a href="https://discord.com/users/731313923558604842"  align="center">
+    <img src="https://lanyard.cnrad.dev/api/731313923558604842?bg=0d0a12&borderRadius=20px&idleMessage=&theme=dark">
+</a>
+
+---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/letKliwyr/letKliwyr/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/letKliwyr/letKliwyr/output/github-contribution-grid-snake.svg">
   <img alt="Quantum Neural Pathway Visualization" src="https://raw.githubusercontent.com/letKliwyr/letKliwyr/output/github-contribution-grid-snake.svg">
 </picture>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/letKliwyr/count.svg" />
-</div>
+---
+
+## <a href="https://emoji.gg/emoji/3007-link"><img src="https://cdn3.emoji.gg/emojis/3007-link.png" width="20px" height="20px" alt="Link"></a> ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ ᴡɪᴛʜ ᴍᴇ
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&border_radius=20"/></a>
+  <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white&border_radius=20"/></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&border_radius=20"/></a>
+  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white&border_radius=20"/></a>
+</p>
+
+---
