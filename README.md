@@ -36,6 +36,12 @@ I started learning programming since 2020 during the pandemic.
 
 ---
 
+## <a href="https://emoji.gg/emoji/2571-white-book"><img src="https://cdn3.emoji.gg/emojis/2571-white-book.png" width="30px" height="30px" alt="white_book"></a> ʀᴇᴘᴏ: 3
+
+
+---
+
+
 ## <img src="https://skillicons.dev/icons?i=github" width="20px" height="20px" alt="stats"></a> ɢɪᴛʜᴜʙ sᴛᴀᴛs
 
 <p align="center">
@@ -50,9 +56,13 @@ I started learning programming since 2020 during the pandemic.
 ---
 
 ## <img src="https://skillicons.dev/icons?i=discord" width="20px" height="20px" alt="stats"></a> ᴅɪsᴄᴏʀᴅ ᴀᴄᴛɪᴠɪᴛɪᴇs
-<a href="https://discord.com/users/731313923558604842"  align="center">
-    <img src="https://lanyard.cnrad.dev/api/731313923558604842?bg=0d0a12&borderRadius=20px&idleMessage=&theme=dark">
-</a>
+<div style="display: flex; justify-content: center; align-items: center; height: 100%;">
+    <a href="https://discord.com/users/731313923558604842" align="center">
+        <img src="https://lanyard.cnrad.dev/api/731313923558604842?bg=0d0a12&borderRadius=20px&idleMessage=&theme=dark">
+    </a>
+</div>
+
+
 
 ---
 <picture>
@@ -62,13 +72,5 @@ I started learning programming since 2020 during the pandemic.
 </picture>
 
 ---
-
-## <a href="https://emoji.gg/emoji/3007-link"><img src="https://cdn3.emoji.gg/emojis/3007-link.png" width="20px" height="20px" alt="Link"></a> ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ ᴡɪᴛʜ ᴍᴇ
-<p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&border_radius=20"/></a>
-  <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white&border_radius=20"/></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&border_radius=20"/></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white&border_radius=20"/></a>
-</p>
 
 ---
