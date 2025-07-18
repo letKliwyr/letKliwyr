@@ -16,7 +16,7 @@
 ```
 Hello, 
 
-I am a student from East Kalimantan, Indonesia. 16 yo
+I am a student from East Kalimantan, Indonesia. 17 yo
 I started learning programming since 2020 during the pandemic.
 ```
 
