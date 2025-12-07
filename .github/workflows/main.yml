@@ -24,6 +24,7 @@ jobs:
           SECTION_NAME: waka
           TIME_RANGE: all_time
           LANG_COUNT: 5
+          SHOW_EDITORS: true
           SHOW_TIME: true
           SHOW_TOTAL: false
           STOP_AT_OTHER: true
