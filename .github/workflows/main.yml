@@ -23,6 +23,7 @@ jobs:
           SHOW_TITLE: true
           SECTION_NAME: waka
           TIME_RANGE: all_time
+          SYMBOL_VERSION: 2
           LANG_COUNT: 5
           SHOW_EDITORS: true
           SHOW_TIME: true
