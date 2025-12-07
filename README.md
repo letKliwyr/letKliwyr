@@ -9,6 +9,8 @@
   <img alt="Quantum Neural Pathway Visualization" src="https://raw.githubusercontent.com/letKliwyr/letKliwyr/output/github-contribution-grid-snake.svg">
 </picture>
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=oazuw5p28hh44ar0vrapwr17n)
+
 ```
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
