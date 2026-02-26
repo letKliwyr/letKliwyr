@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 June 2025 - To: 24 February 2026
+From: 18 June 2025 - To: 25 February 2026
 
 Java                       15 hrs 29 mins        ████████████░░░░░░░░░░░░░   47.86 %
 HTML                       6 hrs 11 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.14 %
