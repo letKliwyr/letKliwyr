@@ -1,12 +1,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 June 2025 - To: 24 April 2026
+From: 18 June 2025 - To: 25 April 2026
 
-Java                       20 hrs 35 mins        █████████████░░░░░░░░░░░░   51.63 %
-HTML                       6 hrs 11 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.54 %
+Java                       20 hrs 35 mins        █████████████░░░░░░░░░░░░   51.62 %
+HTML                       6 hrs 11 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.53 %
 JavaScript                 2 hrs 57 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
-Groovy                     2 hrs 45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
+Groovy                     2 hrs 45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
 Python                     2 hrs 2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
 ```
 
